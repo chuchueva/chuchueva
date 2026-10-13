@@ -1,6 +1,6 @@
 # Irina Chuchueva
 
-Power market quant: forecasting, optimisation and algorithmic trading in short-term electricity markets.
+Independent Power Quantitative Researcher and Developer: forecasting, optimisation and algorithmic trading in short-term electricity markets.
 Since 2007 I have built models for nodal and zonal pricing systems; from 2020 to 2026 I was the sole
 quantitative developer of an algorithmic trading operation in the European power market.
 PhD in mathematical modelling. Based in Yerevan, Armenia.
